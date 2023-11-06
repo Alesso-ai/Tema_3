@@ -1,0 +1,17 @@
+ @font-face {
+    font-family: Roboto;
+    src: url(../assets/fonts/RobotoSlab-VariableFont_wght.ttf);
+ }
+ 
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 100px;
+    height: 100vh;
+ }
