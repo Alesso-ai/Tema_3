@@ -15,9 +15,11 @@
  
  header{
     background: linear-gradient(to bottom, rgb(185, 44, 44));
-    color: #fff;
+    color: #130101;
     text-align: center;
     padding: 20px;
     box-shadow: 0px 2px 5px rgba(0, 0, 0,);
     border-bottom: 2px solid #357f36;
+    margin: 10px;
+    text-decoration: none;
  }
